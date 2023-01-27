@@ -1,0 +1,6 @@
+2023-01-27 16:56:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEOPLE" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.birth,p1_0.name,p1_0.surname from people p1_0 where p1_0.id=? [42104-214]
+2023-01-27 16:57:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PEOPLE" not found (this database is empty); SQL statement:
+select p1_0.id,p1_0.birth,p1_0.name,p1_0.surname from people p1_0 where p1_0.id=? [42104-214]
